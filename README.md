@@ -82,9 +82,9 @@ The model was trained for 5 epochs and evaluated on the Fashion-MNIST test datas
 
 ## Repository Contents
 
-- `Untitled(5).ipynb`: Original notebook for dataset loading, preprocessing, validation splitting, neural network development, model training, evaluation, and saving the trained model.
+- `Untitled.ipynb`: Original notebook for dataset loading, preprocessing, validation splitting, neural network development, model training, evaluation, and saving the trained model.
 - `fashion_model.py`: Python module containing `FashionMNISTPredictor` for loading, preprocessing, and predicting custom clothing images.
-- `Untitled2(1).ipynb`: Notebook demonstrating how to import and use `FashionMNISTPredictor` with the saved model to classify individual clothing images.
+- `Untitled2.ipynb`: Notebook demonstrating how to import and use `FashionMNISTPredictor` with the saved model to classify individual clothing images.
 - `fashion_model.keras`: Saved trained neural network expected by the prediction notebook.
 - `Pixelated Grayscale Running Sneaker.png`: Custom sneaker image used for prediction.
 - `Pixelated Gray T-Shirt on Black.png`: Custom T-shirt image used for prediction.
